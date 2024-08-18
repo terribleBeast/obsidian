@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1710432187582,
+      "path": "TODO.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1713023856457,
+      "path": "АГУ"
+    },
+    {
+      "type": "file",
+      "ctime": 1718681296679,
+      "path": "Summer.md",
+      "title": "План подготовки"
+    },
+    {
+      "type": "group",
+      "ctime": 1718684751490,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718685778400,
+          "path": "Алгоритмы/Содержание.canvas",
+          "title": "Алгоритмы"
+        },
+        {
+          "type": "file",
+          "ctime": 1719474243461,
+          "path": "Stepic/Python для профессионалов.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1719556386266,
+          "path": "Stepic/Selenium.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1719899609812,
+          "path": "Спорт/Спорт.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1720494345908,
+          "path": "С_С++/C_C++.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1721825417517,
+          "path": "Книги.md",
+          "title": "Книги"
+        }
+      ],
+      "title": "Учеба"
+    }
+  ]
+}

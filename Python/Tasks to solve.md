@@ -1,0 +1,6 @@
+1. [Ближайший элемент](https://stepik.org/lesson/569748/step/12?unit=564262)
+2. [Макс длина слова по букве](https://stepik.org/lesson/569748/step/13?unit=564262)
+3. [Максимальное число, сост из чисел](https://stepik.org/lesson/569748/step/15?unit=564262)
+4. [Количество дубликатов](https://stepik.org/lesson/569749/step/4?unit=564263)
+5. [CSV_columns](https://stepik.org/lesson/518491/step/15?unit=510939)
+6. [Кортеж "цены, продукта, магазина"](https://stepik.org/lesson/518491/step/22?discussion=8178384&thread=solutions&unit=510939)
