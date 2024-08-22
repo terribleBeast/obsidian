@@ -8,63 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b07ca9a00a7c8c6e",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "55fa431779feb06a",
+            "id": "63b8c4589e290c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Git/Git_общее.md",
+                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "278adb4a9e9047ab",
+            "id": "d70418866688aa73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! lessons Stepic/Работа с json файлами.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09e7cedd7ba0632e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статьи/ТГ_BOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b18c9decb3cb1ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/2024-08-18.md",
+                "file": "Словарь/Класс.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Специфика",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,11 +77,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bb7a0828309a1d0f",
@@ -130,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статьи/ТГ_BOT.md",
+                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статьи/ТГ_BOT.md",
+                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статьи/ТГ_BOT.md"
+                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md"
               }
             }
           },
@@ -187,10 +156,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -201,37 +172,40 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "09e7cedd7ba0632e",
+  "active": "63b8c4589e290c9d",
   "lastOpenFiles": [
-    "Ежедневник/2024-08-18.md",
-    "! lessons Stepic/Работа с json файлами.md",
-    "Словарь/Сериализация.md",
-    "Stepic/Python для профессионалов.md",
-    "Статьи/Git/Git_общее.md",
-    "Статьи/Git/Как работает Git.md",
-    "Stepic/Телеграмм_боты_на_Python_и_AIOgram.md",
-    "Статьи/ТГ_BOT.md",
-    "Статьи/Git",
-    "Ежедневник/2024-08-16.md",
-    "Ежедневник/2024-08-15.md",
-    "Без названия.canvas",
-    "Без названия.md",
-    "Ежедневник/2024-08-04.md",
-    "Цитаты.md",
-    "Ежедневник/2024-08-03.md",
-    "Dev/source.md",
-    "Stepic/Selenium.md",
-    "Книги/Reviews/Компьютерные системы/Глава_1._Экскурс_в_компьютерные_системы..md",
-    "Словарь/Адаптер.md",
-    "Статьи/GNU.md",
-    "Книги/Reviews/Компьютерные системы/Вопросы.md",
-    "Книги/Хочу прочесть.md",
-    "Книги/Reviews/Компьютерные системы/Содержание.md",
-    "Цитаты/Без названия.md",
-    "Цитаты",
-    "Книги.md",
+    "Словарь/Класс.md",
+    "Книги/Reviews/ООП_Python/Словарь.md",
+    "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
+    "Словарь/Объектно-ориентированное программирование.md",
+    "Словарь/Объектно-ориентированное проектирование.md",
+    "Словарь/Объектно-ориентированный анализ.md",
     "Книги/Reviews/ООП_Python/Содержание.md",
-    "Книги/Reviews/Без названия.md",
+    "Словарь/Объект.md",
+    "Книги/Reviews/Франклин.md",
+    "Книги.md",
+    "Книги/Читаю.md",
+    "Книги/Хочу прочесть.md",
+    "Ежедневник/2024-08-22.md",
+    "Ежедневник/2024-08-20.md",
+    "Ежедневник/2024-08-21.md",
+    "Книги/Reviews/Компьютерные системы/Глава_1._Экскурс_в_компьютерные_системы..md",
+    "Словарь/Оператор.md",
+    "Stepic/Телеграмм_боты_на_Python_и_AIOgram.md",
+    "Книги/Reviews/Компьютерные системы/Содержание.md",
+    "TODO.md",
+    "! lessons Stepic/Взаимодействие с Telegram Bot API.md",
+    "Stepic/Python для профессионалов.md",
+    "Статьи/ТГ_BOT.md",
+    "Словари_по_темам/Telegram_Bot_API.md",
+    "Словарь по т.md",
+    "Словари_по_темам",
+    "Cтатьи/API.md",
+    "Cтатьи",
+    "Новое",
+    "Статьи/Git",
+    "Без названия.canvas",
+    "Цитаты",
     "Книги/Reviews/ООП_Python",
     "РЕСУРСЫ/вывод_строки_на_дисплей.png",
     "РЕСУРСЫ/загрузка_файла_в_основную_память.png",
@@ -247,10 +221,7 @@
     "Статьи",
     "Книги/Reviews/Компьютерные системы",
     "С_С++",
-    "Спорт",
     "РЕСУРСЫ/url.png",
-    "! lessons Stepic",
-    "Stepic/Без названия",
     "Python/Задачи.canvas",
     "Python/Moduls.canvas",
     "Dev/Без названия.canvas"
