@@ -18,3 +18,4 @@ driver = webdriver.Chrome()
 driver.get("http://example.com")
 ```
 
+Это замена? [ссылка](https://playwright.dev/python/docs/api/class-playwright)

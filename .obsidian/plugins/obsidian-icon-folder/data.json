@@ -29,5 +29,14 @@
   "TODO.md": "IbAddToPlaylist",
   "Dev": "IbStatement",
   "Словарь/Дескриптор.md": "IbTriangleDown",
-  "Словарь/Транзистор.md": "IbCrossWithCircle"
+  "Словарь/Транзистор.md": "IbCrossWithCircle",
+  "Статьи/Unix, Poslx Standard Unix Specification.md": "IbAddToPlaylist",
+  "Статьи/FTP.md": "IbAddToPlaylist",
+  "Словарь/Асинхронность.md": "IbTriangleDown",
+  "Словарь/Операционная_система.md": "IbCrossWithCircle",
+  "Словарь/Многопоточность.md": "IbCrossWithCircle",
+  "Словарь/Квантование времени.md": "IbCrossWithCircle",
+  "Словарь/атомарная операция.md": "IbCrossWithCircle",
+  "Словарь/Процессор.md": "IbCrossWithCircle",
+  "Вложения": "IbTriangleDown"
 }

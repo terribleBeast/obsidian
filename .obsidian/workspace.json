@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e4286d07f7075b",
+        "id": "a2c032be3fd0825f",
         "type": "tabs",
         "children": [
           {
-            "id": "63b8c4589e290c9d",
+            "id": "7c720e89704eec9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d70418866688aa73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Словарь/Класс.md",
+                "file": "! lessons Stepic/Функции как объекты.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Специфика",
+                "query": "Книги",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb7a0828309a1d0f",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
+                "file": "! lessons Stepic/Функции как объекты.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
+                "file": "! lessons Stepic/Функции как объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md"
+                "file": "! lessons Stepic/Функции как объекты.md"
               }
             }
           },
@@ -161,67 +147,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Сегодняшняя заметка": false,
       "github-sync:Sync with Remote": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "random-note:Открыть случайную заметку": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "63b8c4589e290c9d",
+  "active": "7c720e89704eec9c",
   "lastOpenFiles": [
-    "Словарь/Класс.md",
-    "Книги/Reviews/ООП_Python/Словарь.md",
-    "Книги/Reviews/ООП_Python/Объектно-ориентированное проектирование.md",
-    "Словарь/Объектно-ориентированное программирование.md",
-    "Словарь/Объектно-ориентированное проектирование.md",
-    "Словарь/Объектно-ориентированный анализ.md",
-    "Книги/Reviews/ООП_Python/Содержание.md",
-    "Словарь/Объект.md",
-    "Книги/Reviews/Франклин.md",
-    "Книги.md",
-    "Книги/Читаю.md",
-    "Книги/Хочу прочесть.md",
-    "Ежедневник/2024-08-22.md",
-    "Ежедневник/2024-08-20.md",
-    "Ежедневник/2024-08-21.md",
-    "Книги/Reviews/Компьютерные системы/Глава_1._Экскурс_в_компьютерные_системы..md",
-    "Словарь/Оператор.md",
-    "Stepic/Телеграмм_боты_на_Python_и_AIOgram.md",
-    "Книги/Reviews/Компьютерные системы/Содержание.md",
-    "TODO.md",
-    "! lessons Stepic/Взаимодействие с Telegram Bot API.md",
     "Stepic/Python для профессионалов.md",
-    "Статьи/ТГ_BOT.md",
-    "Словари_по_темам/Telegram_Bot_API.md",
-    "Словарь по т.md",
-    "Словари_по_темам",
-    "Cтатьи/API.md",
-    "Cтатьи",
-    "Новое",
-    "Статьи/Git",
-    "Без названия.canvas",
-    "Цитаты",
-    "Книги/Reviews/ООП_Python",
-    "РЕСУРСЫ/вывод_строки_на_дисплей.png",
-    "РЕСУРСЫ/загрузка_файла_в_основную_память.png",
-    "РЕСУРСЫ/чтение_команды_с_клавиатуры.png",
-    "РЕСУРСЫ/Система компиляции.png",
-    "РЕСУРСЫ/Pasted image 20240326230941.png",
-    "РЕСУРСЫ/Pasted image 20240326231157.png",
-    "РЕСУРСЫ/Pasted image 20240405233042.png",
-    "РЕСУРСЫ/Аппаратная_организация_типичной_вычислительной_системы.png",
-    "РЕСУРСЫ/Этапы_компиляции.png",
+    "! lessons Stepic/Функции как объекты.md",
+    "No.md",
+    "Книги/Книги_дома.md",
+    "План на неделю.md",
+    "С_С++/Курс.md",
+    "Untitled.md",
+    "Без названия.md",
+    "С_С++/C_C++.md",
+    "Stepic/Selenium.md",
+    "Спорт/Спорт.md",
+    "Python/Func_moduls/filter.md",
+    "Словарь/Операнд.md",
+    "Словарь/Оператор.md",
+    "! lessons Stepic/Функции высшего порядка.md",
+    "Python/About/Functions.md",
+    "Python/Func_moduls/map.md",
+    "Python/About/Алгоритмы мать его.md",
+    "! lessons Stepic/Встроенные функции.md",
+    "English/Briefly.md",
+    "English/Results.md",
+    "Музыка/Песни.md",
+    "обо всем/Как работает телефонный звонок.md",
+    "Шаблоны/c_code.md",
+    "С_С++/Вопросы.md",
+    "Вложения/relative_clause2.png",
+    "Вложения/пирамида_предлогов.png",
+    "Вложения/предлоги_места.png",
+    "TODO.md",
+    "Вложения/relative_clause.png",
+    "Вложения/Аппаратная_организация_типичной_вычислительной_системы.png",
+    "Вложения/порядок_слов_англ.png",
+    "Вложения/Pasted image 20241021234302.png",
+    "Вложения/наречия.png",
+    "Вложения/притяжательные_мест.png",
+    "Вложения/Pasted image 20240326230941.png",
+    "обо всем",
+    "Математика",
+    "Блокчейн",
+    "Книги/Reviews/Изучаем_Python",
     "Алгоритмы/Содержание.canvas",
-    "Linux",
-    "Статьи",
-    "Книги/Reviews/Компьютерные системы",
-    "С_С++",
-    "РЕСУРСЫ/url.png",
+    "SQL",
+    "АГУ/ML",
+    "! lessons Stepik",
+    "Музыка",
+    "Танцы",
+    "Шаблоны",
+    "Без названия.canvas",
     "Python/Задачи.canvas",
     "Python/Moduls.canvas",
     "Dev/Без названия.canvas"

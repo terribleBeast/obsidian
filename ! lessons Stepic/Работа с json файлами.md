@@ -1,4 +1,4 @@
-**JSON** (англ. JavaScript Object Notation) - текстовый формат обмена данными, основанный на языке программирования JavaScript. Формат легко читаем, независим от JavaScript и может использоваться с многими ЯП. 
+[**JSON**](https://www.json.org/json-ru.html) (англ. JavaScript Object Notation) - текстовый формат обмена данными, основанный на языке программирования JavaScript. Формат легко читаем, независим от JavaScript и может использоваться с многими ЯП. 
 
 > [!Note]
 > За счет своей лаконичности формат JSON отлично подходит для [сериализаци](Сериализация.md) сложных структур   
@@ -27,11 +27,10 @@
 
 ### Функция dumps()
 
+Описание: [сериализует](Сериализация.md) python объект в json-строку в соответствии с таблицей ниже.
+
 [Сигнатура](Словарь/Сигнатура)
-
-`json.dump`(_obj_, _fp_, _*_, _skipkeys=False_, _ensure_ascii=True_, _check_circular=True_, _allow_nan=True_, _cls=None_, _indent=None_, _separators=None_, _default=None_, _sort_keys=False_, _**kw_)[
-
-Для сериализаци данных в json строку используется функции dumps() из модуля json. Для того, чтобы [сериализовать](Сериализация.md) данные  с её помощью, достаточно передать в неё любой серилизуемый Python объект.
+`json.dumps(_obj_, _*_, _skipkeys=False_, _ensure_ascii=True_, _check_circular=True_, _allow_nan=True_, _cls=None_, _indent=None_, _separators=None_, _default=None_, _sort_keys=False_, _**kw_)`
 
 ``` python
 import json 
@@ -49,3 +48,24 @@ print(json_data)
 > [!Note]
 > Независимо от того, что в Python-словаре мы использовали одинарные, в результирующую строку всегда попадают двойные.
 
+### Функция dump 
+
+Описание: сериализует Python объект в файл, в соответствии с таблицей
+
+![](json_convert.png)
+
+Сигнатура
+`json.dump(_obj_, _fp_, _*_, _skipkeys=False_, _ensure_ascii=True_, _check_circular=True_, _allow_nan=True_, _cls=None_, _indent=None_, _separators=None_, _default=None_, _sort_keys=False_, _**kw_)`
+
+### Функция load
+Описание: принимает файловый объект и возвращает его [десериализованное](Десериализация.md)  содержимое 
+
+Сигнатура
+`json.load(_fp_, _*_, _cls=None_, _object_hook=None_, _parse_float=None_, _parse_int=None_, _parse_constant=None_, _object_pairs_hook=None_, _**kw_)`
+
+Если десериализуемые данные не являются JSON документов, то будет вызвана ошибка JSONDecodeError
+
+Функций loads
+
+Описание: [десериализирует](Десериализация.md) строку в Python объект используя таблицу.
+![](convert_json_to_python.png)
