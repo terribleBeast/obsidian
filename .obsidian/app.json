@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "useTab": false,
-  "attachmentFolderPath": "Вложения"
+  "attachmentFolderPath": "Вложения",
+  "showUnsupportedFiles": true
 }

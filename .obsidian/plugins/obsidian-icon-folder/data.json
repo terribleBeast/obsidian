@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#ff0505",
     "recentlyUsedIcons": [
+      "SiMdbook",
       "IbCrossWithCircle",
       "IbTriangleDown",
       "IbStatement",
@@ -19,9 +20,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
@@ -38,5 +39,6 @@
   "Словарь/Квантование времени.md": "IbCrossWithCircle",
   "Словарь/атомарная операция.md": "IbCrossWithCircle",
   "Словарь/Процессор.md": "IbCrossWithCircle",
-  "Вложения": "IbTriangleDown"
+  "Вложения": "IbTriangleDown",
+  "Книги": "SiMdbook"
 }
