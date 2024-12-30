@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stepic/Python для профессионалов.md",
+                "file": "Ежедневник/2024-12-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python для профессионалов"
+              "title": "2024-12-30"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Итераторы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +214,11 @@
       "vocabulary-highlighter:Highlight vocabulary": false
     }
   },
-  "active": "83d2f5c8bb7dfd87",
+  "active": "a6610ce30e53881e",
   "lastOpenFiles": [
-    "Stepic/Python для профессионалов.md",
     "! lessons Stepic/Генераторы.md",
+    "Ежедневник/2024-12-30.md",
+    "Stepic/Python для профессионалов.md",
     "! lessons Stepic/Итераторы.md",
     "Статьи/Poetry.md",
     "! lessons Stepic/Работа с json файлами.md",
@@ -246,7 +245,6 @@
     "Статьи/Linux/Linux_Hexlet.md",
     "Без названия 1.md",
     "Без названия 2.md",
-    "Ежедневник/2024-12-28.md",
     "Stepic/FastAPI",
     "Вложения/Pasted image 20240326230941.png",
     "Вложения/коды_состояния_запроса.png",
