@@ -6,11 +6,6 @@
       "path": "TODO.md"
     },
     {
-      "type": "folder",
-      "ctime": 1713023856457,
-      "path": "АГУ"
-    },
-    {
       "type": "file",
       "ctime": 1718681296679,
       "path": "Summer.md",
@@ -49,6 +44,16 @@
       "type": "file",
       "ctime": 1724297465092,
       "path": "Книги/Читаю.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1730279037532,
+      "path": "План на неделю.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1735482707546,
+      "path": "Всякое.md"
     }
   ]
 }

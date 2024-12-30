@@ -5,9 +5,14 @@
   "slash-commander",
   "obsidian-day-planner",
   "dataview",
-  "github-sync",
   "templater-obsidian",
   "readwise-official",
   "obsidian-annotator",
-  "obsidian-epub-plugin"
+  "obsidian-epub-plugin",
+  "image-captions",
+  "obsidian-git",
+  "calendar",
+  "obsidian-latex-suite",
+  "omnisearch",
+  "vocabulary-highlighter"
 ]

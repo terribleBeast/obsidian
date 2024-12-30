@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Шаблоны",
   "templates_pairs": [
     [
       "",
@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "Шаблоны/c_code.md",
+    "Шаблоны/python_code.md"
   ],
   "startup_templates": [
     ""

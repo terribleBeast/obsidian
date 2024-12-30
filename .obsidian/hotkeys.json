@@ -16,5 +16,39 @@
       ],
       "key": "K"
     }
+  ],
+  "workspace:goto-tab-2": [],
+  "templater-obsidian:Шаблоны/c_code.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "templater-obsidian:Шаблоны/python_code.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "vocabulary-highlighter:toggle-vocab-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

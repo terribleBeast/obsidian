@@ -17,3 +17,5 @@ if 1 in numbers:
 # bee
 ```
 
+Ресурсы:
+1) [Поколение](https://stepik.org/lesson/640044/step/14?unit=636564) 
