@@ -69,3 +69,15 @@ print(json_data)
 
 Описание: [десериализирует](Десериализация.md) строку в Python объект используя таблицу.
 ![](convert_json_to_python.png)
+
+
+## Примечания
+
+### JSON Line
+При работе с большими файлами стоит использовать JSON Lines [docs](https://jsonlines.org/examples/). Он хранит JSON по строчкам, что позволяет загружать в память лишь отдельные части файла. Это позволить сильно сэкономить память ОЗУ.
+
+[Комментарий со Stepik](https://stepik.org/lesson/673155/step/1?discussion=10397697&unit=671418)
+
+### Генератор словаря
+
+[ссылка](https://stepik.org/lesson/673155/step/1?discussion=8834480&unit=671418)
