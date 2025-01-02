@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a045d8d4f00a58e",
+        "id": "0f7b83af4d147091",
         "type": "tabs",
         "children": [
           {
-            "id": "a6610ce30e53881e",
+            "id": "b81ceb99762574ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План на неделю.md",
+                "file": "Учёба/Изучить.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План на неделю"
-            }
-          },
-          {
-            "id": "83d2f5c8bb7dfd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Stepic/Selenium/Selenium_Содержание.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Selenium_Содержание"
-            }
-          },
-          {
-            "id": "8107dd411bcb5205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Study.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study"
+              "title": "Изучить"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,17 +200,25 @@
       "vocabulary-highlighter:Highlight vocabulary": false
     }
   },
-  "active": "c8ff8674d77d6763",
+  "active": "b81ceb99762574ae",
   "lastOpenFiles": [
+    "Учёба/Ссылки.md",
+    "Учёба/Изучить.md",
+    "Книги/Читаю.md",
+    "TODO.md",
+    "Общее/Всякое.md",
+    "Summer.md",
+    "Учёба/Задачи по матану.md",
+    "No.md",
+    "План на неделю.md",
+    "Учёба/Stepic/Микросервисы/HTTP.md",
+    "Дом/На все.md",
+    "Учёба/Алгоритмика/Заметки.md",
+    "Dev/Study.md",
     "Dev/source.md",
     "Dev/Films.md",
     "Dev/как учиться.md",
     "Общее/Заметки.md",
-    "Задачи по матану.md",
-    "Изучить.md",
-    "Всякое.md",
-    "No.md",
-    "План на неделю.md",
     "Источники.md",
     "Общее/Obsidian.md",
     "Общее",
@@ -252,17 +231,9 @@
     "Учёба/Stepic/Selenium/Selenium_Содержание.md",
     "Учёба/Stepic/Python для профессионалов.md",
     "Учёба/Stepic/Selenium",
-    "Учёба/Stepic/Микросервисы/Содержание_Микросервисы.md",
     "Учёба",
-    "Stepic/FastAPI/Содержание_FastAPI.md",
-    "Учёба/Stepic/Микросервисы/FastAPI.md",
-    "Summer.md",
     "Проекты",
-    "Древо навыков.md",
-    "! lessons Stepic/Итераторы.md",
-    "Книги/Читаю.md",
     "Учёба/Алгоритмы/Содержание.canvas",
-    "Проекты/С_С++/C_C++.md",
     "Учёба/Stepic/Русский",
     "Статьи/Linux",
     "Stepic/FastAPI",
